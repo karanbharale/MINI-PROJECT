@@ -1,0 +1,16 @@
+PORT = 8000
+FOLDER_NAME= "StudyNotion-MiniProject"
+JWT_SECRET= "Joker@NKOCET"
+
+MONGODB_URL= mongodb+srv://bharalekaran:S78Co9V7HjpW2AHT@cluster0.j8gm5oz.mongodb.net/StudyNotion-MiniProject
+
+MAIL_HOST= smtp.gmail.com
+MAIL_USER= bharalekaran@gmail.com
+MAIL_PASS= tvcd cgij cust dojo
+
+CLOUD_NAME= df0bb8ly2
+API_KEY= 518656359974643
+API_SECRET= S_PKs1tS5OkJ83tRWYvmt8cAviM
+
+RAZORPAY_SECRET= xsrZVzzTmG30PxYkWG5vm1JP
+RAZORPAY_KEY= rzp_test_bDof9i9IyNP3we
